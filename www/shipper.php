@@ -88,7 +88,7 @@
                                 <th>$products</th>
                                 <th><select name='status[]'>
                                     <option value='$status' selected='selected'>$status</option>
-                                    <option value='Ordered'>Ordered</option>
+                                    <option value='Canceled'>Canceled</option>
                                     <option value='Dilivered'>Dilivered</option>
                                 </select>
                                 </th>
