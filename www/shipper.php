@@ -75,7 +75,7 @@
                             <td>$products</td>
                             <td><select name='status[]' class='status'>
                                 <option value='$status' selected='selected'>$status</option>
-                                <option value='Ordered'>Canceled</option>
+                                <option value='Canceled'>Canceled</option>
                                 <option value='Dilivered'>Delivered</option>
                             </select>
                             </td>
