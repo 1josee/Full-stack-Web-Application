@@ -37,11 +37,11 @@
             echo "
                 <div class='each_product'>
                     <div>
-                        <a href='..\www\detail.php?id=".$id."'>
-                        <img class='image' src='..\img-product\/".$image."' alt = 'logo'></a>
+                        <img class='image' src='..\img-product\/".$image."' alt = 'logo'>
                     </div>
                     <h3>$name</h3>
                     <h3>$price</h3>
+                    <h3>$description</h3>
                 </div>
                 ";}
                 $featuredProductsCount++;
